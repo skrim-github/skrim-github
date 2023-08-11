@@ -1,0 +1,2 @@
+- Hi, I’m skrim
+- currently learning python
